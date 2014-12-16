@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>90E85217-1141-4F93-AA85-3A43EE0CF8DD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ByrdannFox, Inc</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>ABBE287E2A0E78A345B8FCA8615527F5B831739A</key>
+		<string>github.com:ryanpoplin/swiftiOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ByrdannFox, Inc/ByrdannFox, Inc.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>ABBE287E2A0E78A345B8FCA8615527F5B831739A</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:ryanpoplin/swiftiOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>ABBE287E2A0E78A345B8FCA8615527F5B831739A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>ABBE287E2A0E78A345B8FCA8615527F5B831739A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>swiftiOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>

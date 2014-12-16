@@ -29,6 +29,9 @@
                             <constraint firstItem="bJL-Mf-nSH" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="51" id="bZL-LB-Rvs"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="testLabel" destination="bJL-Mf-nSH" id="puo-eX-md6"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>

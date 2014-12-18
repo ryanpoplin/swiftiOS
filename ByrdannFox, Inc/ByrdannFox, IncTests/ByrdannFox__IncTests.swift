@@ -31,6 +31,12 @@ class ByrdannFox__IncTests: XCTestCase {
         self.measureBlock() {
             // Put the code you want to measure the time of here.
         }
-    }
+    }   
+    
+//    func testOptionalChaining() {
+//        var memberEntity = MemberEntity()
+//        var nameOfLocation:String? = memberEntity.location?.locationName
+//        XCTAssertNil(nameOfLocation)
+//    }
     
 }

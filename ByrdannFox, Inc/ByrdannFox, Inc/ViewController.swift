@@ -35,5 +35,18 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
-
+    
+//    class MemberEntity {
+//        var location:LocationEntity? = nil
+//        var firstName:String = ""
+//        var lastName:String = ""
+//    }
+//    
+//    class LocationEntity {
+//        var locationName = "Greenville"
+//        var locationDescription = "Byrdann Fox's home for now...."
+//        var locationId:Int32 = 5
+//    }
+    
 }
+
